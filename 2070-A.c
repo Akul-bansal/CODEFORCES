@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                    // Problem 2070A - Fizz Buzz
 int main(){
     int n;
     scanf("%d",&n);
