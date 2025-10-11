@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                              // Problem 977A - Wrong Subtraction
 int main(){
     int n,k;
     scanf("%d %d",&n,&k);
