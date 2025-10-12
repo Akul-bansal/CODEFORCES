@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                    // A. Divisibility Problem(1328A)
 int main()
 {
     long int n;
