@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                  //A. The New Year: Meeting Friends(723 A )
 int main()
 {
     int x1, x2, x3;
