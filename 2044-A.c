@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                             //A. Easy Problem (2044-A)      
 int main()
 {
     int x;
