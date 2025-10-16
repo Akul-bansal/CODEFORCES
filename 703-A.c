@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                      //A. Mishka and Game (703-A)
 int main()
 {
     int n, a, b;
