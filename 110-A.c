@@ -1,5 +1,5 @@
 #include <stdio.h>
-                                                             
+                                                                // 110A - Nearly Lucky Number
 int main()
 {
     long long int n;
