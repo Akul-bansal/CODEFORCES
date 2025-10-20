@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                       // 1409A - Yet Another Two Integers Problem
 int main()
 {
     long int n;
