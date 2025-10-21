@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                 // A. Coin Transformation (2043-A)
 int main()
 {
     int n;
