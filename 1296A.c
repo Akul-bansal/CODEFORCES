@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                                // ( 1296-A ) - Array with Odd Sum
 int main()
 {
     int n, t;
