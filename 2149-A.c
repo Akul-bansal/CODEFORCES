@@ -1,5 +1,5 @@
 #include <stdio.h>
-                                                    // 2149A - Be Positive
+                                        // 2149A - Be Positive
 int main()
 {
     int n;
