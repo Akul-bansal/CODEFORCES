@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+             // 732A Buy a shovel
 int main()
 {
     int k, r;
