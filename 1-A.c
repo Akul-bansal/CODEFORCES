@@ -4,9 +4,9 @@ int main()
 {
     long long int n, m, a;
     scanf("%lld %lld %lld", &n, &m, &a);
-    int row = (n + a - 1) / a;
-    int column = (m + a - 1) / a;
+    long long int row = (n + a - 1) / a;
+    long long int column = (m + a - 1) / a;
 
-    printf("%d", row * column);
+    printf("%lld", row * column);
     return 0;
 }
