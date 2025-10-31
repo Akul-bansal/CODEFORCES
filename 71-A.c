@@ -12,7 +12,7 @@ int main()
         int length = strlen(str);
         char a = str[0];
         char b = str[length - 1];
-        if (length < 10)
+        if (length < 11)
             printf("%s\n", str);
         else
             printf("%c%d%c\n", a, length - 2, b);
