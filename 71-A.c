@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+                                                    // 71-A - Way Too Long Words
 int main()
 {
     int n;
