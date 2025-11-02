@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                 // 581A - Vasya the Hipster
 int main()
 {
     int a, b;
