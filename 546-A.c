@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                     // 546A - Soldier and Bananas
 int main() {
     int k,n,w;
     int dollar=0;
