@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<string.h>
+#include<string.h>                                 // 61A - Ultra-Fast Mathematician
 int main(){
     char str1[120];
     char str2[120];
