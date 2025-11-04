@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                // 148A - Insomnia cure
 int main()
 {
     int k, l, m, n;
