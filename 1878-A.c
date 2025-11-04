@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                   // 1878-A - How Much Does Daytona Cost?
 int main()
 {
     int a, n, k;
