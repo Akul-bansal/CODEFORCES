@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                  // 510A - Fox And Snake
 int main()
 {
     int n, m;
