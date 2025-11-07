@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                      // 1692-A - Marathon
 int main()
 {
     int n;
