@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                // 1030A - In Search of an Easy Problem
 int main(){
     int n,a;
     int count=0;
