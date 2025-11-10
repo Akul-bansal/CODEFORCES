@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                 // 1899-A. Game with Integers
 int main()
 {
     int n, t;
