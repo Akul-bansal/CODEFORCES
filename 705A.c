@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                           // 705A - Hulk
 int main(){
     int n;
     scanf("%d",&n);
