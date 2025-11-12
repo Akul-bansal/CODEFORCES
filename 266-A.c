@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                            // 266A - Stones on the Table
 int main()
 {
     int n;
