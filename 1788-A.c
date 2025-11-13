@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                             // 1788A - One and Two
 int main()
 {
     int t, n;
