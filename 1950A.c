@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                                // 1950A - Stair, Peak, or Neither?
 int main(){
     int n;
     scanf("%d",&n);
