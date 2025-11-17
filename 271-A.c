@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                           // 271A - Beautiful Year
 int main(){
     int year1,n,year;
     scanf("%d",&year1);
