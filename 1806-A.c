@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                          // 1806A - Walking Master
 int main()
 {
     int n;
