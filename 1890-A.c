@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                       // A - Doremy's Paint 3
 int main()
 {
     int t, n;
