@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                                  // 1866A - Ambitious Kid
 int main()
 {
 
