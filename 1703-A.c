@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                              // 1703A - YES or YES?
 int main(){
     int t;
     scanf("%d",&t);
