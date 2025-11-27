@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                             // 1742A - Sum
 int main()
 {
     int t;
