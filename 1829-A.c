@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                        // 1829A - Love Story
 int main()
 {
     int t;
