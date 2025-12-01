@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                         // 1850A - To My Critics
 int main() {
     int t;
     scanf("%d", &t);
