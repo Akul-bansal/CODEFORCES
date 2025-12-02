@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                           // 1926A - Vlad and the Best of Five
 int main() {
     int t;
     scanf("%d", &t);
