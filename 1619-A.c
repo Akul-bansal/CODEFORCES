@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+                           // 1619A - Square String?
 int main() {
     int t;
     scanf("%d", &t);
