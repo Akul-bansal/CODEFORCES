@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                         // 281A - Word Capitalization
 int main() {
     char s[1001];
     scanf("%s", s);
