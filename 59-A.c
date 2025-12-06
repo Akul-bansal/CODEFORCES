@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                            // 59A - Word
 int main() {
     char s[101];
     scanf("%s", s);
