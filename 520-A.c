@@ -1,4 +1,5 @@
 #include <stdio.h>
+                         // 520A - Pangram
 
 int main() {
     int n;
