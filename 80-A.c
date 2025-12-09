@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                       // 80A - Panoramix's Prediction
 int main() {
     int n, m;
     scanf("%d %d", &n, &m);
