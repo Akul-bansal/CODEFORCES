@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                         // 1915A - Odd One Out
 int main() {
     int t;
     scanf("%d", &t);
