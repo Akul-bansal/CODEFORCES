@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                        // 577A - Multiplication Table
 int main() {
     long long n, x;
     scanf("%lld %lld", &n, &x);
