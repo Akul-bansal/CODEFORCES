@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+                      // 236A - Boy or Girl
 int main() {
     char s[110];
     int freq[26] = {0}, count = 0;
