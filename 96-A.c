@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+       // 96-A Football
 int main() {
     char s[105];
     scanf("%s", s);
