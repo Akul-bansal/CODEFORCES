@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+                      // 41A - Translation
 int main() {
     char a[110], b[110];
     scanf("%s %s", a, b);
