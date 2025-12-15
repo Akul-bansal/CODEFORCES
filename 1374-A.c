@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                    // 1374A - Required Remainder
 int main()
 {
     int t;
@@ -9,7 +9,7 @@ int main()
     {
         scanf("%lld %lld %lld", &x, &y, &n);
         k = n - (n - y) % x;
-        printf("%lld", k);
+        printf("%lld\n", k);
     }
     return 0;
 }
