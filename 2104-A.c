@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                     // 2104A - Three Decks
 int main(){
     int t;
     scanf("%d",&t);
