@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                      // 1955A - Yogurt Sale
 int main()
 {
     int n, t, a, b, x;
