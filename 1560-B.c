@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                      // 1560B - Who's Opposite?
 int main()
 {
     int t;
