@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                       // 758A - Holiday Of Equality
 int main() {
     int n;
     scanf("%d", &n);
