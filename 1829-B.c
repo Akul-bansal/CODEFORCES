@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                      // 1829B - Blank Space
 int main(){
     int t;
     scanf("%d",&t);
