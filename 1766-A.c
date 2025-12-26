@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                          // 1766A - Extremely Round
 int main(){
     int t;
     scanf("%d",&t);
