@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+                           // 1862B - Sequence Game
 using namespace std;
 int main(){
     int t;
