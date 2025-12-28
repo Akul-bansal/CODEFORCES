@@ -1,5 +1,6 @@
 #include<iostream>
 #include<algorithm>
+                       // 1857A - Array Coloring
 using namespace std;
 int main(){
     int t;
