@@ -1,5 +1,6 @@
 #include<iostream>
-#include<algorithm>
+#include<algorithm> 
+                    // 1831A - Twin Permutations
 using namespace std;
 int main(){
     int t;
