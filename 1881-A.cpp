@@ -1,5 +1,5 @@
 #include <iostream>
-#include <algorithm>
+#include <algorithm>              // 1881A - Don't Try to Count
 using namespace std;
 int main()
 {
