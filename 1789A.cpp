@@ -1,6 +1,6 @@
 #include<iostream>
 #include<algorithm>
-#include <numeric>
+#include <numeric>                // 1789A - Serval and Mocha's Array
 using namespace std;
 int main(){
     int t;
