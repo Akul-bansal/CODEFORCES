@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+#include <vector>               // 1837B - Comparison String
 #include <algorithm>
 #include <string>
 using namespace std;
