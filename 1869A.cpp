@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+                       // 1869A - Make It Zero
 using namespace std;
 
 int main()
