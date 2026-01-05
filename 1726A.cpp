@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
- 
+                          // 1726A - Mainak and Array
 int main()
 {
     int t;
