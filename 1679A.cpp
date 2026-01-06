@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+                       // 1679A - AvtoBus
 using namespace std;
 
 int main() {
