@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+        //144-A 
 int main() {
     int n;
     cin >> n;
