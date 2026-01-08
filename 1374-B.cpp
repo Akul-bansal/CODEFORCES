@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+           // 1374-B multiply by 2 divide by 6
 using namespace std;
 
 int main() {
