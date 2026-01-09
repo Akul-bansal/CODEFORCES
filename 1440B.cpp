@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+// 1440B Sum of Medians
 using namespace std;
 
 int main() {
