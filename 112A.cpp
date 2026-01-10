@@ -2,7 +2,7 @@
 #include <string>
 #include <algorithm>
 using namespace std;
-
+// 112 A Petya and strings
 int main() {
     string a, b;
     cin >> a >> b;
