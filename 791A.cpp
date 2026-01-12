@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+         // 791A Bear and Big brother 
 int main() {
     int a, b;
     cin >> a >> b;
