@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+        // 734A Anton and Dainik
 int main() {
     int n;
     cin >> n;
