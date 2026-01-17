@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+      // swap and delete
 using namespace std;
 
 int main()
