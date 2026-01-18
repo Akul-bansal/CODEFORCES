@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+     // 677A - Vanya and Fence
 int main() {
     int n, h;
     cin >> n >> h;
