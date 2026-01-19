@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+     // 344A Magnets
 int main() {
     int n;
     cin >> n;
