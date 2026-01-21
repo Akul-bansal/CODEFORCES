@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+     // 469-A I wanna be the guy
 int main() {
     int n;
     cin >> n;
