@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+        // 490A team olympiad
 int main() {
     int n;
     cin >> n;
