@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+    // 785 A anton and polyhedrons
 int main() {
     int n;
     cin >> n;
