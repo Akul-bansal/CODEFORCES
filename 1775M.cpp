@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+     //1775 M minimum lcm
 int main() {
   int t;
   cin>>t;
