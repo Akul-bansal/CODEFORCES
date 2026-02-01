@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+    // 1312B Bogosort
 using namespace std;
 
 int main() {
