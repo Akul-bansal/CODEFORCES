@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+     // 1671C noice vita
 using namespace std;
 
 int main() {
