@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <map>
 using namespace std;
-
+     // zero array
 int main() {
     int n;
     cin >> n;
