@@ -2,7 +2,7 @@
 #include <algorithm>
 #include <string>
 using namespace std;
-
+     // 2185A. perfect root 
 int main() {
     int t;
     cin>>t;
