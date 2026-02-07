@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+  //1343B
 int main() {
     int t;
     cin >> t;
