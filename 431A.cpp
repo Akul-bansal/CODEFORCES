@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+    //431A Black square
 int main() {
     int a1, a2, a3, a4;
     cin >> a1 >> a2 >> a3 >> a4;
