@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+     // 1367A short substring 
 int main() {
     int t;
     cin >> t;
