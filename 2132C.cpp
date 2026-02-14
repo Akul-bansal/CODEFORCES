@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <cmath>
-   
+      // 2132C The cunning seller
 using namespace std;
 
 int main() {
