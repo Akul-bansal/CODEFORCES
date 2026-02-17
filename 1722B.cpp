@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+  // 1722B
 int main() {
     int t;
     cin >> t;
