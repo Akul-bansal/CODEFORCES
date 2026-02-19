@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+    // 1294A collecting coins
 int main() {
     int t;
     cin >> t;
