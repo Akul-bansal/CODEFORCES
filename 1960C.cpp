@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+      //Repetition 
 bool isPrime(int n) {
     if (n <= 1) return false;        
     if (n == 2) return true;         
