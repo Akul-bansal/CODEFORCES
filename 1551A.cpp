@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+       // 1551A
 int main() {
     int t;
     cin >> t;
