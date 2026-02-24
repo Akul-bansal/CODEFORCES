@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+     // 486A Calculating Function 
 using namespace std;
 
 int main() {
