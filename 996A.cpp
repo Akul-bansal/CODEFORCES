@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+       //996A
 int main() {
     int n;
     cin >> n;
