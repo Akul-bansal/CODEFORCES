@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+    //1352A
 int main() {
     int t;
     cin >> t;
