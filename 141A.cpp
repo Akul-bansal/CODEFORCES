@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
+    //141A
 int main() {
     string guest, host, pile;
     cin >> guest >> host >> pile;
