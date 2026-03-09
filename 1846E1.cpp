@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+   //1846E1 snowfall
 int main() {
     int t;
     cin >> t;
