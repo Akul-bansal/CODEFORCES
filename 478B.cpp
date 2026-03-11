@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+    //478B Random teams
 using namespace std;
 
 int main() {
