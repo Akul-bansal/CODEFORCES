@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+       //1922C closest city
 using namespace std;
 
 int main()
