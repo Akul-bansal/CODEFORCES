@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-
+     //260A Adding digits
 using namespace std;
 
 int main() {
