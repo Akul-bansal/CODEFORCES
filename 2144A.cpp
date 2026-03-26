@@ -3,7 +3,7 @@
 #include <algorithm>
 #include <cmath>
 using namespace std;
-
+    //2144A
 int main() {
     int t;
     cin >> t;
