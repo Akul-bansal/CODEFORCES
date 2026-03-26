@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+     //9A
 int main() {
     int y, w;
     cin >> y >> w;
