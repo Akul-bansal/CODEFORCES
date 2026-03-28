@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+     //381A
 int main() {
     int n;
     cin >> n;
