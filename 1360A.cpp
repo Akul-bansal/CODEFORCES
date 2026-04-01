@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+   //A MINIMAL SQUARE
 int main() {
     int t;
     cin >> t;
