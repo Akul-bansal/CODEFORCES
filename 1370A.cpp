@@ -1,6 +1,6 @@
 #include <bits/stdc++.h> //Problem-
 using namespace std;
- 
+    //1370A
 int main()
 {
     long long t;
