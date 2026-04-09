@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+   //1873B
 int main() {
     int t;
     cin >> t;
